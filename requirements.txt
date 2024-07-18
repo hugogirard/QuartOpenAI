@@ -1,0 +1,6 @@
+quart==0.19.6
+openai==1.35.3
+python-dotenv==1.0.1
+gunicorn
+uvicorn
+asyncio==3.4.3
