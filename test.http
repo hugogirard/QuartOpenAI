@@ -1,0 +1,5 @@
+POST http://127.0.0.1:5000/api/chat HTTP/1.1
+Content-Type: application/json
+{
+    "prompt": "What is the capital of Germany?",
+}
